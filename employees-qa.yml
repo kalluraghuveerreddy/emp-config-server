@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+employee:
+  message: " This is Employee Service QA APIs"
+  contactDetails:
+    name: "Santhosh Reddy"
+    designation: "Sr.QA Lead"
+  onCallSupport:
+    - (+91) 2222-2222
+    - (+1) 3455-344-44

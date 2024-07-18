@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+employee:
+  message: " This is Employee Service Local APIs"
+  contactDetails:
+    name: "Raghuveer Reddy"
+    designation: "Sr.Software Engineer"
+  onCallSupport:
+    - (+91) 2222-2222
+    - (+1) 3455-344-44

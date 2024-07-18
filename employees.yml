@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 employee:
-  message: " This is Employee Service Local APIs"
+  message: " This is Employee Service Local updated APIs"
   contactDetails:
     name: "Raghuveer Reddy"
     designation: "Sr.Software Engineer"
